@@ -15,4 +15,4 @@ I am Daniel, a Data Engineer specializing in advanced analytics.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,flask,js,html,css,cpp,nodejs,azure,wordpress&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,azure,tensorflow,flask,js,html,css,cpp,nodejs,wordpress&theme=dark)](https://skillicons.dev)
