@@ -9,10 +9,12 @@ I am Daniel, a Data Engineer specializing in advanced analytics.
 - Generative AI
   
 ## Favorite Tech
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-<div>
+[![Programming Languages](https://skillicons.dev/icons?i=py,js,cpp&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,azure,tensorflow,flask,js,html,css,cpp,nodejs,wordpress&theme=dark)](https://skillicons.dev)
+[![Web Development](https://skillicons.dev/icons?i=flask,html,css,nodejs&theme=dark)](https://skillicons.dev)
+
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=tensorflow,react,&theme=dark)](https://skillicons.dev)
+
+[![Cloud Computing](https://skillicons.dev/icons?i=azure&theme=dark)](https://skillicons.dev)
+
+[![Content Management System (CMS)](https://skillicons.dev/icons?i=wordpress&theme=dark)](https://skillicons.dev)
