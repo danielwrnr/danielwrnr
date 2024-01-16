@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I am Daniel and I am a Data Engineer in the field of Advanced Analytics. 
+
+<div id="skills">
+  <h2>Skills</h2>
+  <ul>
+    <li>[your first skill]</li>
+    <li>[your second skill]</li>
+    <li>[your third skill]</li>
+    <li>[your fourth skill]</li>
+  </ul>
+</div>
+
 <!--
 **danielwrnr/danielwrnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
