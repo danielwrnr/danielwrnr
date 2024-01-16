@@ -1,23 +1,23 @@
 ### Hi there 👋
 
-I am Daniel and I am a Data Engineer in the field of Advanced Analytics. 
+I am Daniel, a Data Engineer specializing in advanced analytics.
 
-<div id="skills">
-  <h2>Skills</h2>
-  <ul>
-    <li>[your first skill]</li>
-    <li>[your second skill]</li>
-    <li>[your third skill]</li>
-    <li>[your fourth skill]</li>
-  </ul>
-</div>
-
+## Skills
+- Data Preparation
+- Development of Data Pipelines
+- Machine Learning Integration & MLOps
+- Generative AI
+  
 ## Favorite Tech
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 <div>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
 <!--
 **danielwrnr/danielwrnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
