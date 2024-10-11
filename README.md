@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Daniel, a Data Engineer specializing in advanced analytics.
+I am Daniel and I am studying Business Informatics in the Master's programme at TU Wien
 
 ## Skills
 - Data Preparation
